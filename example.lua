@@ -1,4 +1,4 @@
-local ini_parser = require "in.parser"
+local ini_parser = require "parser"
 
 local file = io.open("example.ini", "r")
 

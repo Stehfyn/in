@@ -3,7 +3,7 @@ An actually tiny .ini parser
 
 ## usage
 ```lua
-local ini_parser = require "in.parser"
+local ini_parser = require "parser"
 
 local file = io.open("example.ini", "r")
 
